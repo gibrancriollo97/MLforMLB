@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn # <--- ¡Asegúrate de que esta línea esté presente!
+matplotlib
+scikit-learn
+plotly
+streamlit
+openpyxl
