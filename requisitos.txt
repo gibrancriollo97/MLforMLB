@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+plotly
+streamlit
+openpyxl # Necesario para leer archivos .xlsx
